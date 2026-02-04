@@ -3,7 +3,6 @@
 **Difficulty:** Easy  
 **Status:** Solved  
 **Topics:** Array, Hash Map  
-**Companies:** Premium (locked)
 
 ---
 
